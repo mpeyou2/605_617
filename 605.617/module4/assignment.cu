@@ -98,7 +98,6 @@ void main_sub(int N, int BLOCK_SIZE, int NUM_BLOCKS, int whichOperation, int pin
 		{
 			h_pagable1[k] = (char)(k + 64);//just fill with alphabet
 
-
 			h_pagable2[k] = 0; //cipher starts with all 0s
 
 		}
